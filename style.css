@@ -36,6 +36,10 @@ img {
     text-align: center;
 }
 
+.menu {
+    text-align: center;
+}
+
 .menu-item {
   display: inline-block;
   width: 300px;
